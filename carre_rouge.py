@@ -64,7 +64,7 @@ class Modele():
         self.largeur=400
         self.hauteur=400
         self.debut=None
-        self.duree=0
+        self.duree=1
         self.pion=Pion(self)
         self.poteau=Poteau(self)
 
